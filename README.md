@@ -41,7 +41,7 @@ shopnow/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/shopnow.git
+https://github.com/PafuncioPinayaBlaz/PBP-MOD-1.git
 cd PBPMOD1
 
 # 2. Instalar dependencias
