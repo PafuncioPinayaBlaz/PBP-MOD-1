@@ -42,7 +42,7 @@ shopnow/
 ```bash
 # 1. Clonar el repositorio
 git clone https://github.com/TU_USUARIO/shopnow.git
-cd shopnow
+cd PBPMOD1
 
 # 2. Instalar dependencias
 npm install
